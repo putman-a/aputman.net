@@ -22,12 +22,12 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-#        - text: Read my latest paper on LLMs
-#          icon: academicons/arxiv
-#          url: https://arxiv.org/abs/2304.01852
-#        - text: Watch my new YouTube video to achieve 20x productivity
-#          icon: brands/youtube
-#          url: https://youtube.com
+        - text: See my latest publication through ORCID
+          icon: academicons/orcid
+          url: https://orcid.org/my-orcid?orcid=0000-0002-2757-6718
+        - text: Find the Sex- and Gender-Based Analysis tool - 5 Item (SGBA-5) here
+          icon: brands/youtubeclipboard-list
+          url: https://figshare.com/articles/journal_contribution/Sex-_and_gender-based_analysis_tool_5-item_v1_0_/29090615?file=54611480
 #        - text: Connect with me on LinkedIn
 #          icon: brands/linkedin
 #          url: https://linkedin.com

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrew Putman, MSc
+title: Andrew Putman (they/them)
 
 # Name pronunciation (optional)
 # name_pronunciation:
@@ -11,7 +11,7 @@ last_name: Putman
 
 # Status emoji
 status:
-  icon: 🌈
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
@@ -52,6 +52,6 @@ profiles:
 #    label: Download my resume
 ---
 
-Andrew is a PhD student in the Trustworthy AI Lab at Ontario Tech University. Andrew’s primary research interests center around equity in healthcare decision-making, both human and algorithmic. More broadly, Andrew is passionate about the understanding, critical evaluation, and communication around AI and statistical models. They care deeply about research methodology and hope that their research can contribute to improving our understanding of complex health problems.
+Andrew is a PhD student at Ontario Tech University. Andrew’s primary research interests center around equity in healthcare decision-making, both human and algorithmic. More broadly, Andrew is passionate about the understanding, critical evaluation, and communication around AI and statistical models. They care deeply about research methodology and hope that their research can contribute to improving our understanding of complex health problems.
 
 Andrew obtained their master’s degree from Ontario Tech in the Faculty of Health Sciences where they co-developed a new measurement tool which aims to improve our understanding of the variety of ways in which sex and gender can affect health. Andrew’s research experience also includes assessing variation in hospitalizations for schizophrenia, evaluation of treatment success predictive models, and analyses of the health impacts of older adults’ lived environment.
