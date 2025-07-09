@@ -22,7 +22,7 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: See my latest publication through ORCID
+        - text: See my latest publications through ORCID
           icon: academicons/orcid
           url: https://orcid.org/my-orcid?orcid=0000-0002-2757-6718
         - text: Find the Sex- and Gender-Based Analysis tool - 5 Item (SGBA-5) here
