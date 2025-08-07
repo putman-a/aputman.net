@@ -21,7 +21,7 @@ role: PhD Student and Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Font(UNDERLINE_ON)Ontario Tech UniversityFont(UNDERLINE_OFF)
+  - name: Ontario Tech University
     url: https://ontariotechu.ca
   - name: Trustworthy AI Lab
     url: https://www.trustworthyai.ca
